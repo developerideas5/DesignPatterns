@@ -1,0 +1,5 @@
+package com.designpatterns.BuilderPattern;
+
+public class ColdDrink {
+
+}
