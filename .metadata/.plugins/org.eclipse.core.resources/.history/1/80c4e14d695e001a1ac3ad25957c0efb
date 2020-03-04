@@ -1,0 +1,5 @@
+package com.designpattern.FactoryPattern;
+
+public class ShapeFactory {
+
+}
