@@ -1,0 +1,5 @@
+package com.designpattern.PrototypePattern;
+
+public class Circle {
+
+}
